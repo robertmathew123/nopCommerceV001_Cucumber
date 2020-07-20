@@ -1,0 +1,1079 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "backround steps",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Launching browser"
+            ],
+            "result": {
+              "duration": 9738000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User Launch Chrome browser",
+            "match": {
+              "location": "stepDefinitions.Steps.user_Launch_Chrome_browser()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 32000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "output": [
+              "Opening URL: http://admin-demo.nopcommerce.com/login"
+            ],
+            "result": {
+              "duration": 6331000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User opens URL \"http://admin-demo.nopcommerce.com/login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://admin-demo.nopcommerce.com/login\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_opens_URL(java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "Proving user info"
+            ],
+            "result": {
+              "duration": 1063000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter Email \"admin@yourstore.com\" and Password \"admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin@yourstore.com\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"admin\"",
+                  "offset": 52
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_enter_email_as_something_and_password_as_something(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9379000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Login",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_Login()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "output": [
+              "Dashboard Display validation"
+            ],
+            "result": {
+              "duration": 59000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User can view Dashboad",
+            "match": {
+              "location": "stepDefinitions.Steps.user_can_view_Dashboad()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-20T07:39:24.514Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1116000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Steps.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Add new Customer",
+        "description": "",
+        "id": "customers;add-new-customer",
+        "after": [
+          {
+            "result": {
+              "duration": 1011000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Steps.CleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3113000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User click on customers Menu",
+            "match": {
+              "location": "stepDefinitions.Steps.user_click_on_customers_Menu()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7106000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "click on customers Menu Item",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_customers_Menu_Item()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2498000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "click on Add new button",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_Add_new_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 19000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User can view Add new customer page",
+            "match": {
+              "location": "stepDefinitions.Steps.user_can_view_Add_new_customer_page()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "output": [
+              "Providing Customer details"
+            ],
+            "result": {
+              "duration": 8376000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User enter customer info",
+            "match": {
+              "location": "stepDefinitions.Steps.user_enter_customer_info()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3839000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "click on Save button",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_Save_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 530000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User can view confirmation message \"The new customer has been added successfully.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"The new customer has been added successfully.\"",
+                  "offset": 35
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_can_view_confirmation_message(java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "output": [
+              "Closing application"
+            ],
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "close browser",
+            "match": {
+              "location": "stepDefinitions.Steps.close_browser()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "backround steps",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Launching browser"
+            ],
+            "result": {
+              "duration": 4244000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User Launch Chrome browser",
+            "match": {
+              "location": "stepDefinitions.Steps.user_Launch_Chrome_browser()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "output": [
+              "Opening URL: http://admin-demo.nopcommerce.com/login"
+            ],
+            "result": {
+              "duration": 5233000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User opens URL \"http://admin-demo.nopcommerce.com/login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://admin-demo.nopcommerce.com/login\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_opens_URL(java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "Proving user info"
+            ],
+            "result": {
+              "duration": 632000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter Email \"admin@yourstore.com\" and Password \"admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin@yourstore.com\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"admin\"",
+                  "offset": 52
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_enter_email_as_something_and_password_as_something(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6927000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Login",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_Login()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "output": [
+              "Dashboard Display validation"
+            ],
+            "result": {
+              "duration": 100000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User can view Dashboad",
+            "match": {
+              "location": "stepDefinitions.Steps.user_can_view_Dashboad()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-20T07:40:19.032Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Steps.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Search Customer by EMailID",
+        "description": "",
+        "id": "customers;search-customer-by-emailid",
+        "after": [
+          {
+            "result": {
+              "duration": 1076000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Steps.CleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3148000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User click on customers Menu",
+            "match": {
+              "location": "stepDefinitions.Steps.user_click_on_customers_Menu()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4288000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "click on customers Menu Item",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_customers_Menu_Item()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "output": [
+              "Search Customer by Email ID Scenario started"
+            ],
+            "result": {
+              "duration": 1035000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Enter customer EMail",
+            "match": {
+              "location": "stepDefinitions.Steps.enter_customer_EMail()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3314000000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Click on search button",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_search_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "Search customer by email validation"
+            ],
+            "result": {
+              "duration": 77000000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User should found Email in the Search table",
+            "match": {
+              "location": "stepDefinitions.Steps.user_should_found_Email_in_the_Search_table()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "output": [
+              "Closing application"
+            ],
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "close browser",
+            "match": {
+              "location": "stepDefinitions.Steps.close_browser()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "backround steps",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Launching browser"
+            ],
+            "result": {
+              "duration": 4079000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User Launch Chrome browser",
+            "match": {
+              "location": "stepDefinitions.Steps.user_Launch_Chrome_browser()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "output": [
+              "Opening URL: http://admin-demo.nopcommerce.com/login"
+            ],
+            "result": {
+              "duration": 4428000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User opens URL \"http://admin-demo.nopcommerce.com/login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://admin-demo.nopcommerce.com/login\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_opens_URL(java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "Proving user info"
+            ],
+            "result": {
+              "duration": 551000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter Email \"admin@yourstore.com\" and Password \"admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin@yourstore.com\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"admin\"",
+                  "offset": 52
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_enter_email_as_something_and_password_as_something(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5456000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Login",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_Login()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "output": [
+              "Dashboard Display validation"
+            ],
+            "result": {
+              "duration": 47000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User can view Dashboad",
+            "match": {
+              "location": "stepDefinitions.Steps.user_can_view_Dashboad()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-20T07:40:49.142Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Steps.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 32,
+        "name": "Search Customer by Name",
+        "description": "",
+        "id": "customers;search-customer-by-name",
+        "after": [
+          {
+            "result": {
+              "duration": 1006000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Steps.CleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3116000000,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "User click on customers Menu",
+            "match": {
+              "location": "stepDefinitions.Steps.user_click_on_customers_Menu()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6617000000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "click on customers Menu Item",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_customers_Menu_Item()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 2000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "output": [
+              "Search custoemr by Name Scenario started"
+            ],
+            "result": {
+              "duration": 295000000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "Enter customer FirstName",
+            "match": {
+              "location": "stepDefinitions.Steps.enter_customer_FirstName()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "output": [
+              "Providing customer name"
+            ],
+            "result": {
+              "duration": 305000000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "Enter customer LastName",
+            "match": {
+              "location": "stepDefinitions.Steps.enter_customer_LastName()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3270000000,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "Click on search button",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_search_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "Search customer by name validation"
+            ],
+            "result": {
+              "duration": 72000000,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "User should found Name in the Search table",
+            "match": {
+              "location": "stepDefinitions.Steps.user_should_found_Name_in_the_Search_table()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "output": [
+              "Closing application"
+            ],
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "close browser",
+            "match": {
+              "location": "stepDefinitions.Steps.close_browser()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDefinitions.Steps.AfterStepScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      }
+    ],
+    "name": "Customers",
+    "description": "",
+    "id": "customers",
+    "keyword": "Feature",
+    "uri": "file:Features/Customers.feature",
+    "tags": []
+  }
+]

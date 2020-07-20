@@ -1,0 +1,159 @@
+[INFO ] 2020-07-19 08:55:05.963 [main] Steps - Launching browser
+[INFO ] 2020-07-19 08:55:06.231 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 08:55:12.310 [main] Steps - Proving user info
+[INFO ] 2020-07-19 08:55:19.356 [main] Steps - Launching browser
+[INFO ] 2020-07-19 08:55:19.364 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 08:55:25.220 [main] Steps - Proving user info
+[INFO ] 2020-07-19 08:55:33.803 [main] Steps - Login successfull
+[INFO ] 2020-07-19 08:55:38.827 [main] Steps - Logout from application
+[INFO ] 2020-07-19 08:55:44.219 [main] Steps - Login successfull
+[INFO ] 2020-07-19 08:55:49.231 [main] Steps - Closing application
+[INFO ] 2020-07-19 08:55:55.914 [main] Steps - Launching browser
+[INFO ] 2020-07-19 08:55:55.926 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 08:56:00.680 [main] Steps - Proving user info
+[INFO ] 2020-07-19 08:56:02.049 [main] Steps - Login Failed
+[INFO ] 2020-07-19 08:57:42.537 [main] Steps - Launching browser
+[INFO ] 2020-07-19 08:57:42.625 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 08:57:49.678 [main] Steps - Proving user info
+[INFO ] 2020-07-19 08:57:56.128 [main] Steps - Launching browser
+[INFO ] 2020-07-19 08:57:56.141 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 08:58:02.437 [main] Steps - Proving user info
+[INFO ] 2020-07-19 08:58:14.197 [main] Steps - Login successfull
+[INFO ] 2020-07-19 08:58:19.273 [main] Steps - Logout from application
+[INFO ] 2020-07-19 08:58:25.882 [main] Steps - Login successfull
+[INFO ] 2020-07-19 08:58:30.899 [main] Steps - Closing application
+[INFO ] 2020-07-19 08:58:37.481 [main] Steps - Launching browser
+[INFO ] 2020-07-19 08:58:37.490 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 08:58:42.774 [main] Steps - Proving user info
+[INFO ] 2020-07-19 08:58:44.379 [main] Steps - Login Failed
+[INFO ] 2020-07-19 08:59:37.735 [main] Steps - Launching browser
+[INFO ] 2020-07-19 08:59:37.842 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 08:59:43.767 [main] Steps - Proving user info
+[INFO ] 2020-07-19 08:59:55.611 [main] Steps - Login successfull
+[INFO ] 2020-07-19 09:00:00.638 [main] Steps - Logout from application
+[INFO ] 2020-07-19 09:00:06.133 [main] Steps - Login successfull
+[INFO ] 2020-07-19 09:00:11.147 [main] Steps - Closing application
+[INFO ] 2020-07-19 09:00:17.954 [main] Steps - Launching browser
+[INFO ] 2020-07-19 09:00:17.965 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 09:00:22.951 [main] Steps - Proving user info
+[INFO ] 2020-07-19 09:00:24.350 [main] Steps - Login Failed
+[INFO ] 2020-07-19 14:48:23.835 [main] Steps - Launching browser
+[INFO ] 2020-07-19 14:48:23.990 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 14:48:30.406 [main] Steps - Proving user info
+[INFO ] 2020-07-19 14:48:31.173 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 14:48:31.175 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 14:50:14.186 [main] Steps - Launching browser
+[INFO ] 2020-07-19 14:50:14.251 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 14:50:19.812 [main] Steps - Proving user info
+[INFO ] 2020-07-19 14:50:20.758 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 14:50:20.780 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 14:52:34.989 [main] Steps - Launching browser
+[INFO ] 2020-07-19 14:52:35.054 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 17:59:43.641 [main] Steps - Launching browser
+[INFO ] 2020-07-19 17:59:43.898 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 17:59:50.864 [main] Steps - Proving user info
+[INFO ] 2020-07-19 17:59:51.716 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 17:59:51.734 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 18:03:30.416 [main] Steps - Launching browser
+[INFO ] 2020-07-19 18:03:30.510 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 18:06:39.501 [main] Steps - Launching browser
+[INFO ] 2020-07-19 18:06:39.563 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 18:07:45.139 [main] Steps - Launching browser
+[INFO ] 2020-07-19 18:07:45.203 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 18:07:50.252 [main] Steps - Proving user info
+[INFO ] 2020-07-19 18:07:58.575 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 18:07:58.578 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 18:08:08.703 [main] Steps - Providing Customer details
+[INFO ] 2020-07-19 18:08:19.760 [main] Steps - Add customer validation
+[INFO ] 2020-07-19 18:08:20.222 [main] Steps - Closing application
+[INFO ] 2020-07-19 19:42:50.017 [main] Steps - Launching browser
+[INFO ] 2020-07-19 19:42:50.073 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 19:42:56.550 [main] Steps - Proving user info
+[INFO ] 2020-07-19 19:43:05.206 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 19:43:05.209 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 19:43:14.023 [main] Steps - Providing Customer details
+[INFO ] 2020-07-19 19:43:25.625 [main] Steps - Add customer validation
+[INFO ] 2020-07-19 19:43:26.037 [main] Steps - Closing application
+[INFO ] 2020-07-19 19:43:31.264 [main] Steps - Launching browser
+[INFO ] 2020-07-19 19:43:31.270 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 19:43:38.986 [main] Steps - Proving user info
+[INFO ] 2020-07-19 19:43:51.933 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 19:43:51.933 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 19:43:58.962 [main] Steps - Search Customer by Email ID Scenario started
+[INFO ] 2020-07-19 19:44:03.005 [main] Steps - Search customer by email validation
+[INFO ] 2020-07-19 19:44:03.090 [main] Steps - Closing application
+[INFO ] 2020-07-19 19:58:14.347 [main] Steps - Launching browser
+[INFO ] 2020-07-19 19:58:14.420 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 19:58:19.340 [main] Steps - Proving user info
+[INFO ] 2020-07-19 19:58:26.196 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 19:58:26.199 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 19:58:35.418 [main] Steps - Providing Customer details
+[INFO ] 2020-07-19 19:58:45.801 [main] Steps - Add customer validation
+[INFO ] 2020-07-19 19:58:46.162 [main] Steps - Closing application
+[INFO ] 2020-07-19 19:58:51.533 [main] Steps - Launching browser
+[INFO ] 2020-07-19 19:58:51.541 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 19:58:56.987 [main] Steps - Proving user info
+[INFO ] 2020-07-19 19:59:04.194 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 19:59:04.195 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 19:59:14.213 [main] Steps - Search Customer by Email ID Scenario started
+[INFO ] 2020-07-19 19:59:18.260 [main] Steps - Search customer by email validation
+[INFO ] 2020-07-19 19:59:18.333 [main] Steps - Closing application
+[INFO ] 2020-07-19 19:59:23.508 [main] Steps - Launching browser
+[INFO ] 2020-07-19 19:59:23.515 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 19:59:29.069 [main] Steps - Proving user info
+[INFO ] 2020-07-19 19:59:35.524 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 19:59:35.525 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 19:59:42.608 [main] Steps - Seqarch custoemr by Name Scenario started
+[INFO ] 2020-07-19 19:59:42.905 [main] Steps - Providing customer name
+[INFO ] 2020-07-19 19:59:46.478 [main] Steps - Search customer by name validation
+[INFO ] 2020-07-19 19:59:46.553 [main] Steps - Closing application
+[INFO ] 2020-07-19 21:44:31.000 [main] Steps - Launching browser
+[INFO ] 2020-07-19 21:44:31.091 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 21:44:38.059 [main] Steps - Proving user info
+[INFO ] 2020-07-19 21:44:48.399 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 21:44:48.403 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 21:44:59.169 [main] Steps - Providing Customer details
+[INFO ] 2020-07-19 21:45:11.068 [main] Steps - Add customer validation
+[INFO ] 2020-07-19 21:45:11.808 [main] Steps - Closing application
+[INFO ] 2020-07-19 21:45:17.409 [main] Steps - Launching browser
+[INFO ] 2020-07-19 21:45:17.422 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 21:45:24.253 [main] Steps - Proving user info
+[INFO ] 2020-07-19 21:45:35.215 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 21:45:35.215 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 21:45:42.807 [main] Steps - Search Customer by Email ID Scenario started
+[INFO ] 2020-07-19 21:45:47.058 [main] Steps - Search customer by email validation
+[INFO ] 2020-07-19 21:45:47.140 [main] Steps - Closing application
+[INFO ] 2020-07-19 21:45:52.435 [main] Steps - Launching browser
+[INFO ] 2020-07-19 21:45:52.444 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 21:45:58.350 [main] Steps - Proving user info
+[INFO ] 2020-07-19 21:46:06.594 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 21:46:06.595 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 21:46:14.570 [main] Steps - Seqarch custoemr by Name Scenario started
+[INFO ] 2020-07-19 21:46:15.367 [main] Steps - Providing customer name
+[INFO ] 2020-07-19 21:46:19.366 [main] Steps - Search customer by name validation
+[INFO ] 2020-07-19 21:46:19.546 [main] Steps - Closing application
+[INFO ] 2020-07-19 21:54:00.662 [main] Steps - Launching browser
+[INFO ] 2020-07-19 21:54:00.735 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 21:54:07.716 [main] Steps - Proving user info
+[INFO ] 2020-07-19 21:54:22.244 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 21:54:22.249 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 21:54:32.699 [main] Steps - Providing Customer details
+[INFO ] 2020-07-19 21:54:44.846 [main] Steps - Add customer validation
+[INFO ] 2020-07-19 21:54:45.310 [main] Steps - Closing application
+[INFO ] 2020-07-19 21:54:50.753 [main] Steps - Launching browser
+[INFO ] 2020-07-19 21:54:50.764 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 21:55:02.004 [main] Steps - Proving user info
+[INFO ] 2020-07-19 21:55:19.076 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 21:55:19.077 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 21:55:26.510 [main] Steps - Search Customer by Email ID Scenario started
+[INFO ] 2020-07-19 21:55:30.467 [main] Steps - Search customer by email validation
+[INFO ] 2020-07-19 21:55:30.541 [main] Steps - Closing application
+[INFO ] 2020-07-19 21:55:35.989 [main] Steps - Launching browser
+[INFO ] 2020-07-19 21:55:35.997 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-19 21:55:47.002 [main] Steps - Proving user info
+[INFO ] 2020-07-19 21:56:01.851 [main] Steps - Adding Customer Scenario started
+[INFO ] 2020-07-19 21:56:01.852 [main] Steps - Dashboard Display validation
+[INFO ] 2020-07-19 21:56:09.921 [main] Steps - Seqarch custoemr by Name Scenario started
+[INFO ] 2020-07-19 21:56:10.270 [main] Steps - Providing customer name
+[INFO ] 2020-07-19 21:56:13.701 [main] Steps - Search customer by name validation
+[INFO ] 2020-07-19 21:56:13.774 [main] Steps - Closing application

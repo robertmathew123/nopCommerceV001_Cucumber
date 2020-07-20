@@ -1,0 +1,88 @@
+[INFO ] 2020-07-17 18:02:48.124 [main] Steps - Launching browser
+[INFO ] 2020-07-17 18:02:48.441 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 18:02:54.604 [main] Steps - Proving user info
+[INFO ] 2020-07-17 18:03:08.770 [main] Steps - Login successfull
+[INFO ] 2020-07-17 18:03:13.958 [main] Steps - Logout from application
+[INFO ] 2020-07-17 18:03:20.051 [main] Steps - Login successfull
+[INFO ] 2020-07-17 18:03:25.065 [main] Steps - Closing application
+[INFO ] 2020-07-17 18:03:31.139 [main] Steps - Launching browser
+[INFO ] 2020-07-17 18:03:31.157 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 18:03:37.764 [main] Steps - Proving user info
+[INFO ] 2020-07-17 18:03:40.664 [main] Steps - Login Failed
+[INFO ] 2020-07-17 18:35:32.224 [main] Steps - Launching browser
+[INFO ] 2020-07-17 18:35:32.285 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 18:35:37.765 [main] Steps - Proving user info
+[INFO ] 2020-07-17 18:35:46.522 [main] Steps - Login successfull
+[INFO ] 2020-07-17 18:35:51.585 [main] Steps - Logout from application
+[INFO ] 2020-07-17 18:35:56.648 [main] Steps - Login successfull
+[INFO ] 2020-07-17 18:36:01.663 [main] Steps - Closing application
+[INFO ] 2020-07-17 18:36:07.208 [main] Steps - Launching browser
+[INFO ] 2020-07-17 18:36:07.215 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 18:36:12.434 [main] Steps - Proving user info
+[INFO ] 2020-07-17 18:36:14.554 [main] Steps - Login Failed
+[INFO ] 2020-07-17 18:38:16.689 [main] Steps - Launching browser
+[INFO ] 2020-07-17 18:38:16.871 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 18:38:22.191 [main] Steps - Proving user info
+[INFO ] 2020-07-17 18:38:30.044 [main] Steps - Login successfull
+[INFO ] 2020-07-17 18:38:35.119 [main] Steps - Logout from application
+[INFO ] 2020-07-17 18:38:40.199 [main] Steps - Login successfull
+[INFO ] 2020-07-17 18:38:45.210 [main] Steps - Closing application
+[INFO ] 2020-07-17 18:38:50.624 [main] Steps - Launching browser
+[INFO ] 2020-07-17 18:38:50.633 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 18:38:56.086 [main] Steps - Proving user info
+[INFO ] 2020-07-17 18:38:58.467 [main] Steps - Login Failed
+[INFO ] 2020-07-17 18:41:39.562 [main] Steps - Launching browser
+[INFO ] 2020-07-17 18:41:39.648 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 18:41:45.270 [main] Steps - Proving user info
+[INFO ] 2020-07-17 18:41:52.989 [main] Steps - Login successfull
+[INFO ] 2020-07-17 18:41:58.006 [main] Steps - Logout from application
+[INFO ] 2020-07-17 18:42:03.017 [main] Steps - Login successfull
+[INFO ] 2020-07-17 18:42:08.030 [main] Steps - Closing application
+[INFO ] 2020-07-17 18:42:13.134 [main] Steps - Launching browser
+[INFO ] 2020-07-17 18:42:13.140 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 18:42:17.412 [main] Steps - Proving user info
+[INFO ] 2020-07-17 18:42:18.853 [main] Steps - Login Failed
+[INFO ] 2020-07-17 19:12:35.103 [main] Steps - Launching browser
+[INFO ] 2020-07-17 19:12:35.160 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 19:12:41.394 [main] Steps - Proving user info
+[INFO ] 2020-07-17 19:12:52.197 [main] Steps - Login successfull
+[INFO ] 2020-07-17 19:12:57.292 [main] Steps - Logout from application
+[INFO ] 2020-07-17 19:13:03.354 [main] Steps - Login successfull
+[INFO ] 2020-07-17 19:13:08.363 [main] Steps - Closing application
+[INFO ] 2020-07-17 19:13:13.899 [main] Steps - Launching browser
+[INFO ] 2020-07-17 19:13:13.907 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 19:13:19.768 [main] Steps - Proving user info
+[INFO ] 2020-07-17 19:13:22.294 [main] Steps - Login Failed
+[INFO ] 2020-07-17 22:19:16.650 [main] Steps - Launching browser
+[INFO ] 2020-07-17 22:19:16.702 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 22:19:24.378 [main] Steps - Proving user info
+[INFO ] 2020-07-17 22:19:36.563 [main] Steps - Login successfull
+[INFO ] 2020-07-17 22:19:41.584 [main] Steps - Logout from application
+[INFO ] 2020-07-17 22:19:47.019 [main] Steps - Login successfull
+[INFO ] 2020-07-17 22:19:52.031 [main] Steps - Closing application
+[INFO ] 2020-07-17 22:19:57.253 [main] Steps - Launching browser
+[INFO ] 2020-07-17 22:19:57.259 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 22:20:03.496 [main] Steps - Proving user info
+[INFO ] 2020-07-17 22:20:05.646 [main] Steps - Login Failed
+[INFO ] 2020-07-17 22:23:46.929 [main] Steps - Launching browser
+[INFO ] 2020-07-17 22:23:47.029 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 22:23:53.301 [main] Steps - Proving user info
+[INFO ] 2020-07-17 22:24:02.284 [main] Steps - Login successfull
+[INFO ] 2020-07-17 22:24:07.317 [main] Steps - Logout from application
+[INFO ] 2020-07-17 22:24:12.758 [main] Steps - Login successfull
+[INFO ] 2020-07-17 22:24:17.769 [main] Steps - Closing application
+[INFO ] 2020-07-17 22:24:23.022 [main] Steps - Launching browser
+[INFO ] 2020-07-17 22:24:23.027 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 22:24:29.246 [main] Steps - Proving user info
+[INFO ] 2020-07-17 22:24:31.042 [main] Steps - Login Failed
+[INFO ] 2020-07-17 22:26:38.275 [main] Steps - Launching browser
+[INFO ] 2020-07-17 22:26:38.372 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 22:26:47.350 [main] Steps - Proving user info
+[INFO ] 2020-07-17 22:26:57.310 [main] Steps - Login successfull
+[INFO ] 2020-07-17 22:27:02.311 [main] Steps - Logout from application
+[INFO ] 2020-07-17 22:27:07.820 [main] Steps - Login successfull
+[INFO ] 2020-07-17 22:27:12.824 [main] Steps - Closing application
+[INFO ] 2020-07-17 22:27:18.006 [main] Steps - Launching browser
+[INFO ] 2020-07-17 22:27:18.011 [main] Steps - Opening URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2020-07-17 22:27:23.978 [main] Steps - Proving user info
+[INFO ] 2020-07-17 22:27:25.416 [main] Steps - Login Failed
